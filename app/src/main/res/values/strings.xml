@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">HomeWork</string>
+    <string name="main_text" translatable="false">Все места свободны</string>
+    <string name="counter" translatable="false">counter</string>
+</resources>
